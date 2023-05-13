@@ -1,2 +1,2 @@
 # datascience
-Projetct to Learning Data Science
+Projects to Learning Data Science!
